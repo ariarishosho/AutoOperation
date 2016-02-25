@@ -1,0 +1,72 @@
+<component name="libraryTable">
+  <library name="annotations-12.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/annotations-12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/annotations.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ant-tasks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/archquery.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/asm-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/asm-analysis-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/asm-tree-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/asset-studio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/builder-model.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/chimpchat.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/commons-codec-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/commons-compress-1.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ddmlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ddms.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ddmuilib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/draw9patch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/dvlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ecj-4.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/emma.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/emma_ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/emma_device.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/fat32lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/gson-2.2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/guava-17.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/hierarchyviewer2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/hierarchyviewer2lib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/httpclient-4.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/httpcore-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/httpmime-4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jcommon-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jfreechart-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jfreechart-swt-1.0.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jobb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jsilver-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/jython-standalone-2.5.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/kxml2-2.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/layoutlib-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/lint-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/lint-checks.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/lint.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/lombok-ast-0.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/manifest-merger.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/monkeyrunner.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/ninepatch.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/org-eclipse-core-commands-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/org-eclipse-equinox-common-3.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/org-eclipse-jface-3.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/rule-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/screenshot2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sdk-common.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sdklib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sdkmanager.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sdkstats.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sdkuilib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/swtmenubar.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/traceview.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/uiautomatorviewer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/osgi-4.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../reset_malason/monkeyrunners/05/tools/lib/osgi-4.0.0.jar!/OSGI-OPT/src" />
+    </SOURCES>
+  </library>
+</component>
